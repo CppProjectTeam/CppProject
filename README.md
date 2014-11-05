@@ -10,6 +10,10 @@ Ceci est le projet C++ des étudiants suivants :
 
 Il s'agit d'un jeu nommé "Castle Rush", qui se joue à deux sur un même ordinateur et qui consiste à essayer de prendre pocession du chateau de l'adversaire en construisant des casernes produisant des soldats.
 
+# Règles générales
+
+Je vous propose de choisir des noms de classe, fonctions, variables en anglais : c'est plus logique dans un contexte anglais de programmation. Par contre, je vous propose de mettre tous les commentaires et descriptifs de commit en francais : c'est plus vite lisible et plus clair pour tout le monde.
+
 # Notes pour la configuration de l'IDE
 
 Le dossier placé sous git est contenant tous les fichiers utiles s'appelle "CppProject". C'est le dossier dans lequel est ce présent document.
@@ -19,7 +23,7 @@ Il y a ensuite deux sous-dossier :
 * "src" qui contient toutes les sources nécessaires à la compilation, y compris les ressources telles les images etc...
 
 Toutes les ressources (ie. les fichiers autre que du code) sont regroupés dans le sous-dossier "Ressources" du dossier "src".
-Ainsi pour accéder à un des ces fichiers, il est nécessaire d'utiliser une URL du type "../Ressources/monFichier.extension".
+Ainsi pour accéder à un des ces fichiers, il est nécessaire d'utiliser une URL du type "src/Ressources/monFichier.extension".
 
 # Notes sur Git
 
