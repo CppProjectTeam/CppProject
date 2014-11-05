@@ -1,0 +1,14 @@
+
+*.xcscheme
+
+*.xcuserstate
+
+CppProject.xcodeproj/xcuserdata/dam100.xcuserdatad/xcschemes/xcschememanagement.plist
+
+*.xccheckout
+
+*.xcworkspacedata
+
+*.pbxproj
+
+CppProject-Info.plist
