@@ -8,7 +8,7 @@ Ceci est le projet C++ des étudiants suivants :
 * Walid Bendada
 * Damien Vielpeau
 
-Il s'agit d'un jeu nommé 
+Il s'agit d'un jeu nommé "Castle Rush", qui se joue à deux sur un même ordinateur et qui consiste à essayer de prendre pocession du chateau de l'adversaire en construisant des casernes produisant des soldats.
 
 # Notes pour la configuration de l'IDE
 
