@@ -12,7 +12,9 @@ Il s'agit d'un jeu nommé "Castle Rush", qui se joue à deux sur un même ordina
 
 # Règles générales
 
-Je vous propose de choisir des noms de classe, fonctions, variables en anglais : c'est plus logique dans un contexte anglais de programmation. Par contre, je vous propose de mettre tous les commentaires et descriptifs de commit en francais : c'est plus vite lisible et plus clair pour tout le monde.
+## Langue
+
+On écrit tout en français.
 
 # Notes pour la configuration de l'IDE
 
