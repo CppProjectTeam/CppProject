@@ -1,16 +1,3 @@
-
-*.xcscheme
-
-*.xcuserstate
-
-CppProject.xcodeproj/xcuserdata/dam100.xcuserdatad/xcschemes/xcschememanagement.plist
-
-*.xccheckout
-
-*.xcworkspacedata
-
-*.pbxproj
+CppProject.xcodeproj/*
 
 CppProject-Info.plist
-
-src/main.cpp
