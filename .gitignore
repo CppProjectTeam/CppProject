@@ -12,3 +12,5 @@ CppProject.xcodeproj/xcuserdata/dam100.xcuserdatad/xcschemes/xcschememanagement.
 *.pbxproj
 
 CppProject-Info.plist
+
+src/main.cpp
