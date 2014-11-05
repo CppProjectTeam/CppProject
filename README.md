@@ -48,6 +48,6 @@ L'utilisation de Git en pratique est assez simple, mais elle nécessite un peu d
 
 ## Résumé des commandes
 * **Commit** pour créer un commit
-* **Sync** pour envoyer vos commits sur le serveur et télécharger les modifs. C'est-à-dire tous les commits qui ont été pushé depuis votre dernier pull.
+* **Sync** pour envoyer vos commits sur le serveur et télécharger les modifs. C'est-à-dire tous les commits qui ont été ajouté au repository depuis votre dernier sync.
 
 NB : Git inclut un systèmes de branches qui permettent de travailler en parallèle sur deux versions différentes (deux branches différentes) du même projet. Nous n'utiliserons pas les branches et nous resterons donc sur une unique banche, nommée "master".
