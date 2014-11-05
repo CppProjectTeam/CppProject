@@ -20,6 +20,7 @@ int main(int, char const**)
         return EXIT_FAILURE;
     }
     window.setIcon(icon.getSize().x, icon.getSize().y, icon.getPixelsPtr());
+    // Nouveau commentaire
 
     // Load a sprite to display
     sf::Texture texture;
